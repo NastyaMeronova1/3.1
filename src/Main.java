@@ -1,0 +1,49 @@
+public class Main {
+    public static void main(String[] args){
+        String nature1="waterfall";
+        String nature2="rain";
+        String nature3="animals";
+        String nature4="human";
+        String nature5="fire";
+        String nature6="water";
+        String nature7="air";
+        String nature8="earth";
+        String nature9="ice";
+        String space1="sun";
+        String space2="jupiter";
+        String space3="earth";
+        String space4="milky way";
+        String space5="galaxy";
+        String space6="stars";
+        String space7="satellite";
+        String space8="rocket";
+        String space9="cosmonaut";
+        String cars1="Toyota";
+        String cars2="Honda";
+        String cars3="Mersedes";
+        String cars4="Lexus";
+        String cars5="Tesla";
+        String cars6="Kia";
+        String cars7="Ford";
+        String cars8="Ferrari";
+        String cars9="Lamborghini";
+        String religion1="belief";
+        String religion2="religious";
+        String religion3="Muslim";
+        String religion4="Christian";
+        String religion5="Buddhist";
+        String religion6="faith";
+        String religion7="believe";
+        String religion8="angel";
+        String religion9="holy";
+        String love1="marry";
+        String love2="love";
+        String love3="husband";
+        String love4="youth";
+        String love5="hug";
+        String love6="couple";
+        String love7="relationship";
+        String love8="date";
+        String love9="family";
+    }
+}
